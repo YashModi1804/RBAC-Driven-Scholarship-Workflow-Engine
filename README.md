@@ -1,9 +1,8 @@
 See Demo : https://scholarshipportalnew.netlify.app/
 <img width="478" height="808" alt="image" src="https://github.com/user-attachments/assets/a908f141-95b1-45b7-bbc7-fdafde85e88e" />
-# Scholarship Portal Frontend
+# RBAC-Driven Scholarship Workflow Engine
 
-A frontend application for the Scholarship Portal project. This repository contains the client-side code that implements the user interface for applicants, administrators, and reviewers to interact with the scholarship system.
-
+A centralized web portal designed to streamline the scholarship approval process for PhD scholars. The system automates multi-level academic approvals using role-based access control (RBAC), reducing manual delays and improving process transparency.
 ## Table of Contents
 
 - [About](#about)
@@ -40,10 +39,10 @@ This project provides the frontend for a Scholarship Portal where students can a
 
 ## Tech stack
 
-- JavaScript (or TypeScript) and a modern front-end framework (React, Vue, or similar)
-- CSS / SCSS or UI library (Tailwind / Bootstrap / Material UI — adjust per repo)
+- JavaScript (Node JS ) and a modern front-end framework (React)
+- CSS / SCSS or UI library
 - Build tooling: npm / yarn, bundler (Vite, Webpack, or framework CLI)
-- Testing: Jest / React Testing Library (if present)
+- Testing: Jest / React Testing Library 
 
 Modify this section to match the actual stack (React / Vue / Next.js / etc.) used in this repository.
 
