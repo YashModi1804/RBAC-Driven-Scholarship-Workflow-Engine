@@ -180,6 +180,6 @@ This project is available under the MIT License. Update the license section if a
 
 ## Contact
 
-Repository owner: [Yash Modi](https://github.com/YashModi1804)
+Repository owner: [Yash Modi] (https://github.com/YashModi1804)
 
 For questions or help, open an issue on the repository.
